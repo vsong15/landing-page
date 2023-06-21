@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-ThinItalic-webfont.eot');
+    src: url('Roboto-ThinItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Roboto-ThinItalic-webfont.woff') format('woff'),
+         url('Roboto-ThinItalic-webfont.ttf') format('truetype'),
+         url('Roboto-ThinItalic-webfont.svg#RobotoThinItalic') format('svg'); (under the Apache Software License). 
+    font-weight: 200;
+}
+
+body {
+    margin: 0;    
+}
+
+header {
+    background-color: #1F2937;
+    display: flex;
+    gap: 440px;
+    align-items: center;
+    justify-content: center;
+    padding: 4px;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-family: 'Roboto';
+    font-weight: bold;
+    padding: 10px;
+}
+
+.item {
+    font-size: 18px;
+    color: #b1b5bb;
+    font-family: 'Roboto';
+    padding: 10px;
+    text-decoration: none;
+    font-weight: lighter;
+}
