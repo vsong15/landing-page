@@ -119,6 +119,7 @@ button {
     align-items: center;
     justify-content: center;
     gap: 48px;
+    flex-wrap: wrap;
 }
 
 .random {
