@@ -154,3 +154,38 @@ button {
     margin-left: 530px;
     margin-bottom: 4px;
 }
+
+.action {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 6.1em 13em 6.6em 13em;
+}
+
+.bottom-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882F6;
+    padding: 3em;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.bottom-button {
+    border: 3px solid #FFF;
+    padding: 6px 32px;
+    margin-left: 16px;
+}
+
+.time {
+    font-size: 24px;
+    color: #FFF;
+    font-weight: bolder;
+}
+
+.product {
+    font-size: 18px;
+    font-weight: 400;
+    color: #e3e0e0;
+}
