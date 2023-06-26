@@ -189,3 +189,18 @@ button {
     font-weight: 400;
     color: #e3e0e0;
 }
+
+footer {
+    font-size: 18px;
+    text-align: center;
+    background-color: #1f2937;
+    color: #FFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 0em;
+}
+
+.copyright {
+    margin-left: 48px;
+}
